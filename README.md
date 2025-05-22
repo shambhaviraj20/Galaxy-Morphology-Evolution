@@ -13,15 +13,13 @@
 ---
 
 ### 🪐 Overview
-<sub>
 
 **Galaxy Morphology Evolution** is a research-based project that leverages **Variational Autoencoders (VAE)** and **Physics-Informed Neural Networks (PINNs)** to simulate and understand the visual evolution of spiral galaxies. Inspired by astronomical datasets and powered by AI, this model captures the structural transformation of galaxies over time.
 This project uses data from **Galaxy Zoo**, applies scientific learning frameworks, and produces visually stunning galaxy morphing simulations like the one above.
-</sub>
+
 ---
 
 ### ✨ Features
-<sub>
 
 - 🌠 **Spiral Galaxy Simulation** with vibrant evolution
 - 📊 Uses **9 key morphological features** from Galaxy Zoo
@@ -41,42 +39,32 @@ This project uses data from **Galaxy Zoo**, applies scientific learning framewor
 - **Training:**
   - Optimized using **reconstruction loss**, **KL divergence**, and **physics-based constraints**
 
-</sub>
-
 ---
 
 ### 📊 Dataset: Galaxy Zoo
-<sub>
 
 - **Source**: [Galaxy Zoo 2](https://data.galaxyzoo.org/)
 - **Size**: ~250,000 galaxy images with crowd-sourced labels
-
-</sub>
 
 ---
 
 ### 🧬 Model Architecture
 
 #### 📦 Variational Autoencoder (VAE)
-<sub>
 - Encodes galaxy features into a latent space.
 - Enables sampling and interpolation between galaxy states.
-</sub>
 
 #### 🌌 Physics-Informed Neural Network (PINN)
-<sub>
 - Models temporal evolution using physical laws.
 - Regularizes predictions to stay realistic over time.
-</sub>
 
 ---
 
 ### 🎯 Research Goals
-<sub>
+
 - Simulate galaxy evolution realistically using both data and physics.
 - Create smooth animations of spiral galaxy changes.
 - Test combinations of morphology parameters and visualize transitions.
-</sub>
 
 ---
 
@@ -98,36 +86,28 @@ python test.py
 ```
 
 ### 🧪 Sample Results
-<sub>
 🌠 Evolving spiral galaxies with dynamic arm distortion, rotation, and fading.
 🌌 Morphology variations based on bulge size and spiral arm prominence.
 🎞️ Output: GIFs that simulate realistic changes in galaxy structure.
-</sub>
 
 ### 🚀 Future Scope
-<sub>
 - Integrate with telescope image streams for real-time learning.
 - Add astrophysical equations for dark matter, gravity, etc.
 - Build a web-based galaxy morph simulator.
-</sub>
 
 ### 👩‍💻 Contributors
-<sub>
 - Shambhavi Raj
 - Shardul Bangale
 - Aaditya Jain
-</sub>
 
 ### 🙏 Acknowledgements
-<sub>
 - Galaxy Zoo for the annotated data.
 - Kingma & Welling for VAEs.
 - Raissi et al. for PINNs.
 - PyTorch, SciPy, and the astronomy ML community.
-</sub>
 
 ### 📜 License
-<sub> This project is licensed under the MIT License. </sub>
+This project is licensed under the MIT License.
 
 <p align="center"><sub><strong>Made with 💫 by Shambhavi</strong></sub></p>
 
