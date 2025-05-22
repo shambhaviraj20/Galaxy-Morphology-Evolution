@@ -86,9 +86,9 @@ python test.py
 ```
 
 ### 🧪 Sample Results
-🌠 Evolving spiral galaxies with dynamic arm distortion, rotation, and fading.
-🌌 Morphology variations based on bulge size and spiral arm prominence.
-🎞️ Output: GIFs that simulate realistic changes in galaxy structure.
+- 🌠 Evolving spiral galaxies with dynamic arm distortion, rotation, and fading.
+- 🌌 Morphology variations based on bulge size and spiral arm prominence.
+- 🎞️ Output: GIFs that simulate realistic changes in galaxy structure.
 
 ### 🚀 Future Scope
 - Integrate with telescope image streams for real-time learning.
