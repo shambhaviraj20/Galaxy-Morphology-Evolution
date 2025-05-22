@@ -4,10 +4,6 @@
   <img src="galaxy_evolution.gif" alt="Galaxy Evolution" width="400">
 </p>
 
-<p align="center">
-  <img src="frame.jpg" alt="Galaxy Frame" width="250">
-</p>
-
 **A visually rich simulation and analysis of galaxy evolution using deep learning and scientific modeling.**
 
 ---
