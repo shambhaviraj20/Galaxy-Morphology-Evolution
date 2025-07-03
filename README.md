@@ -72,7 +72,7 @@ git clone https://github.com/shambhaviraj20/Galaxy-Morphology-Evolution.git
 cd Galaxy-Morphology-Evolution
 
 # 2. Install dependencies
-pip install -r requirements.txt
+pip install 
 
 # 3. Train the models
 python galaxy-2.py
