@@ -102,8 +102,9 @@ python test.py
 - Raissi et al. for PINNs.
 - PyTorch, SciPy, and the astronomy ML community.
 
-### 📜 License
-This project is licensed under the MIT License.
+ ### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <p align="center"><sub><strong>Made with 💫 by Shambhavi</strong></sub></p>
 
